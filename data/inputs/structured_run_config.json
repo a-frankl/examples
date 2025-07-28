@@ -5,7 +5,7 @@
       "scenario_name": "base",
       "default_weight": 1.0,
       "evolution_model": "perturb",
-      "apply_smoothing": true,
+      "apply_smoothing": true
       }
    },
    "stress_scenarios": {
