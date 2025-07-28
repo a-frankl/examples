@@ -6,7 +6,6 @@
       "default_weight": 1.0,
       "evolution_model": "perturb",
       "apply_smoothing": true
-      }
    },
    "stress_scenarios": {
       "downturn": {
